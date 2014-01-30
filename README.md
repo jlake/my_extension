@@ -14,3 +14,8 @@ $ phpize
 $ ./configure
 $ make install
 ```
+
+Add to php.ini
+```
+extension=my_extension.so
+```
