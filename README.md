@@ -1,4 +1,4 @@
-my_extension
+My php extension
 =======
 
 An template for making simple php extension.
